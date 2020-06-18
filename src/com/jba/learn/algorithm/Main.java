@@ -1,6 +1,7 @@
 package com.jba.learn.algorithm;
 
 import java.math.BigDecimal;
+import java.util.concurrent.ConcurrentHashMap;
 
 public class Main {
 
@@ -10,5 +11,7 @@ public class Main {
     System.out.println(a + b);
     System.out.println(new BigDecimal(a + b));
     System.out.println((a + b) == 0.3);
+    ConcurrentHashMap map = new ConcurrentHashMap();
+    map.put("12341", "123421");
   }
 }
