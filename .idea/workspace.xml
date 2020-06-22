@@ -1,16 +1,26 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="2cc134f5-7894-4bb8-86a2-554581b73513" name="Default Changelist" comment="初始化项目">
-      <change afterPath="$PROJECT_DIR$/out/production/jba-learn-algorithm/META-INF/jba-learn-algorithm.kotlin_module" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/jba/learn/algorithm/graph/Base.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/jba/learn/algorithm/graph/Sub.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/jba/learn/algorithm/leetCode/AddTwoNumbers.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/jba/learn/algorithm/leetCode/GuessNumber.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/jba/learn/algorithm/leetCode/IntReverse.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/jba/learn/algorithm/leetCode/KidWithCandies.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/jba/learn/algorithm/leetCode/MaxDiff.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/jba/learn/algorithm/sort/QuickSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/jba/learn/algorithm/sort/QuickSort.java" afterDir="false" />
+    <list default="true" id="2cc134f5-7894-4bb8-86a2-554581b73513" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/com/jba/learn/algorithm/leetCode/MergeKLists.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -34,15 +44,17 @@
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
   </component>
-  <component name="RunManager" selected="Application.AddTwoNumbers">
-    <configuration name="AddTwoNumbers" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.jba.learn.algorithm.leetCode.AddTwoNumbers" />
+  <component name="RunManager" selected="Application.MergeKLists">
+    <configuration name="GenerateParenthesis" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.jba.learn.algorithm.leetCode.GenerateParenthesis" />
       <module name="jba-learn-algorithm" />
       <extension name="coverage">
         <pattern>
@@ -54,21 +66,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="BFSSearch" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.jba.learn.algorithm.graph.BFSSearch" />
-      <module name="jba-learn-algorithm" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.jba.learn.algorithm.graph.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="IntReverse" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.jba.learn.algorithm.leetCode.IntReverse" />
+    <configuration name="IntToRoman" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.jba.learn.algorithm.leetCode.IntToRoman" />
       <module name="jba-learn-algorithm" />
       <extension name="coverage">
         <pattern>
@@ -80,8 +79,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="KidWithCandies" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.jba.learn.algorithm.leetCode.KidWithCandies" />
+    <configuration name="MergeKLists" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.jba.learn.algorithm.leetCode.MergeKLists" />
       <module name="jba-learn-algorithm" />
       <extension name="coverage">
         <pattern>
@@ -93,8 +92,21 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MaxDiff" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.jba.learn.algorithm.leetCode.MaxDiff" />
+    <configuration name="RomanToInt" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.jba.learn.algorithm.leetCode.RomanToInt" />
+      <module name="jba-learn-algorithm" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.jba.learn.algorithm.leetCode.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ThreeSumClosest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.jba.learn.algorithm.leetCode.ThreeSumClosest" />
       <module name="jba-learn-algorithm" />
       <extension name="coverage">
         <pattern>
@@ -108,11 +120,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.AddTwoNumbers" />
-        <item itemvalue="Application.MaxDiff" />
-        <item itemvalue="Application.KidWithCandies" />
-        <item itemvalue="Application.IntReverse" />
-        <item itemvalue="Application.BFSSearch" />
+        <item itemvalue="Application.MergeKLists" />
+        <item itemvalue="Application.GenerateParenthesis" />
+        <item itemvalue="Application.ThreeSumClosest" />
+        <item itemvalue="Application.IntToRoman" />
+        <item itemvalue="Application.RomanToInt" />
       </list>
     </recent_temporary>
   </component>
@@ -141,13 +153,103 @@
       <option name="project" value="LOCAL" />
       <updated>1587204340035</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="增加leetCode相关方法">
+      <created>1591328353297</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1591328353297</updated>
+    </task>
+    <task id="LOCAL-00004" summary="增加leetCode相关方法">
+      <created>1592191785488</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1592191785488</updated>
+    </task>
+    <task id="LOCAL-00005" summary="增加leetCode相关方法">
+      <created>1592451254749</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1592451254749</updated>
+    </task>
+    <task id="LOCAL-00006" summary="增加三数之和的算法题解">
+      <created>1592538473429</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1592538473429</updated>
+    </task>
+    <task id="LOCAL-00007" summary="增加罗马转数字">
+      <created>1592558820419</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1592558820419</updated>
+    </task>
+    <task id="LOCAL-00008" summary="增加三数接近之和">
+      <created>1592562773347</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1592562773347</updated>
+    </task>
+    <task id="LOCAL-00009" summary="增加括号生成算法解">
+      <created>1592807442477</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1592807442478</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="1">
+          <value>
+            <State>
+              <option name="SHOW_ONLY_AFFECTED_CHANGES" value="true" />
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="HEAD" />
+                      </list>
+                    </value>
+                  </entry>
+                  <entry key="structure">
+                    <value>
+                      <list>
+                        <option value="dir:E:/my-workspace/jba-learn-algorithm/src" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="OPEN_GENERIC_TABS">
+      <map>
+        <entry key="1" value="TOOL_WINDOW" />
+      </map>
+    </option>
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="初始化项目" />
     <MESSAGE value="调整拓扑排序相关代码" />
-    <option name="LAST_COMMIT_MESSAGE" value="调整拓扑排序相关代码" />
+    <MESSAGE value="增加leetCode相关方法" />
+    <MESSAGE value="增加三数之和的算法题解" />
+    <MESSAGE value="增加罗马转数字" />
+    <MESSAGE value="增加三数接近之和" />
+    <MESSAGE value="增加括号生成算法解" />
+    <option name="LAST_COMMIT_MESSAGE" value="增加括号生成算法解" />
   </component>
   <component name="WindowStateProjectService">
     <state x="5131" y="223" key="#com.intellij.ide.util.MemberChooser" timestamp="1590744559170">
@@ -167,79 +269,109 @@
       <screen x="0" y="0" width="1798" height="982" />
     </state>
     <state x="1134" y="240" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1798.982@0.0.1798.982" timestamp="1587200190380" />
-    <state x="604" y="0" width="1103" height="930" key="#xdebugger.evaluate" timestamp="1591270209483">
+    <state x="4530" y="270" key="#com.intellij.refactoring.typeMigration.ui.FailedConversionsDialog" timestamp="1591352683869">
+      <screen x="3840" y="0" width="1920" height="1050" />
+    </state>
+    <state x="4530" y="270" key="#com.intellij.refactoring.typeMigration.ui.FailedConversionsDialog/0.0.1707.930/3840.0.1920.1050@3840.0.1920.1050" timestamp="1591352683869" />
+    <state x="604" y="0" width="1103" height="930" key="#xdebugger.evaluate" timestamp="1592557464508">
       <screen x="0" y="0" width="1707" height="930" />
     </state>
-    <state x="604" y="0" width="1103" height="930" key="#xdebugger.evaluate/0.0.1707.930/3840.0.1920.1050@3840.0.1920.1050" timestamp="1591270209483" />
-    <state x="509" y="57" key="CommitChangelistDialog2" timestamp="1587204339353">
-      <screen x="0" y="0" width="1798" height="982" />
+    <state x="604" y="0" width="1103" height="930" key="#xdebugger.evaluate/0.0.1707.930/3840.0.1920.1050@3840.0.1920.1050" timestamp="1592557464508" />
+    <state x="484" y="54" key="CommitChangelistDialog2" timestamp="1592807441770">
+      <screen x="0" y="0" width="1707" height="930" />
     </state>
+    <state x="484" y="54" key="CommitChangelistDialog2/0.0.1707.930/3840.0.1920.1050@0.0.1707.930" timestamp="1592807441770" />
+    <state x="4384" y="61" key="CommitChangelistDialog2/0.0.1707.930/3840.0.1920.1050@3840.0.1920.1050" timestamp="1592562772835" />
     <state x="509" y="57" key="CommitChangelistDialog2/0.0.1798.982@0.0.1798.982" timestamp="1587204339353" />
-    <state width="469" height="499" key="DebuggerActiveHint" timestamp="1591327620210">
+    <state width="469" height="499" key="DebuggerActiveHint" timestamp="1592814838946">
       <screen x="3840" y="0" width="1920" height="1050" />
     </state>
-    <state width="469" height="499" key="DebuggerActiveHint/0.0.1707.930/3840.0.1920.1050@3840.0.1920.1050" timestamp="1591327620210" />
+    <state width="417" height="442" key="DebuggerActiveHint/0.0.1707.930/3840.0.1920.1050@0.0.1707.930" timestamp="1592809970085" />
+    <state width="469" height="499" key="DebuggerActiveHint/0.0.1707.930/3840.0.1920.1050@3840.0.1920.1050" timestamp="1592814838946" />
     <state width="439" height="466" key="DebuggerActiveHint/0.0.1798.982@0.0.1798.982" timestamp="1588066799061" />
-    <state x="5047" y="269" key="FileChooserDialogImpl" timestamp="1591235651639">
+    <state x="3932" y="92" width="1736" height="866" key="DiffContextDialog" timestamp="1592791874382">
       <screen x="3840" y="0" width="1920" height="1050" />
     </state>
-    <state x="5047" y="269" key="FileChooserDialogImpl/0.0.1707.930/3840.0.1920.1050@3840.0.1920.1050" timestamp="1591235651639" />
+    <state x="3932" y="92" width="1736" height="866" key="DiffContextDialog/0.0.1707.930/3840.0.1920.1050@3840.0.1920.1050" timestamp="1592791874382" />
+    <state x="5047" y="269" key="FileChooserDialogImpl" timestamp="1592535875204">
+      <screen x="3840" y="0" width="1920" height="1050" />
+    </state>
+    <state x="5047" y="269" key="FileChooserDialogImpl/0.0.1707.930/3840.0.1920.1050@3840.0.1920.1050" timestamp="1592535875204" />
     <state x="1130" y="252" key="FileChooserDialogImpl/0.0.1798.982@0.0.1798.982" timestamp="1587204112618" />
     <state x="746" y="388" width="636" height="205" key="Github.ShareDialog" timestamp="1587204104580">
       <screen x="0" y="0" width="1798" height="982" />
     </state>
     <state x="746" y="388" width="636" height="205" key="Github.ShareDialog/0.0.1798.982@0.0.1798.982" timestamp="1587204104580" />
-    <state width="1878" height="339" key="GridCell.Tab.0.bottom" timestamp="1591327611918">
+    <state width="1877" height="338" key="GridCell.Tab.0.bottom" timestamp="1592814859475">
       <screen x="3840" y="0" width="1920" height="1050" />
     </state>
-    <state width="1878" height="339" key="GridCell.Tab.0.bottom/0.0.1707.930/3840.0.1920.1050@3840.0.1920.1050" timestamp="1591327611918" />
+    <state width="1664" height="291" key="GridCell.Tab.0.bottom/0.0.1707.930/3840.0.1920.1050@0.0.1707.930" timestamp="1592809977252" />
+    <state width="1877" height="338" key="GridCell.Tab.0.bottom/0.0.1707.930/3840.0.1920.1050@3840.0.1920.1050" timestamp="1592814859475" />
     <state width="1754" height="312" key="GridCell.Tab.0.bottom/0.0.1798.982@0.0.1798.982" timestamp="1588067020635" />
-    <state width="1878" height="339" key="GridCell.Tab.0.center" timestamp="1591327611918">
+    <state width="1877" height="338" key="GridCell.Tab.0.center" timestamp="1592814859475">
       <screen x="3840" y="0" width="1920" height="1050" />
     </state>
-    <state width="1878" height="339" key="GridCell.Tab.0.center/0.0.1707.930/3840.0.1920.1050@3840.0.1920.1050" timestamp="1591327611918" />
+    <state width="1664" height="291" key="GridCell.Tab.0.center/0.0.1707.930/3840.0.1920.1050@0.0.1707.930" timestamp="1592809977251" />
+    <state width="1877" height="338" key="GridCell.Tab.0.center/0.0.1707.930/3840.0.1920.1050@3840.0.1920.1050" timestamp="1592814859475" />
     <state width="1754" height="312" key="GridCell.Tab.0.center/0.0.1798.982@0.0.1798.982" timestamp="1588067020635" />
-    <state width="1878" height="339" key="GridCell.Tab.0.left" timestamp="1591327611918">
+    <state width="1877" height="338" key="GridCell.Tab.0.left" timestamp="1592814859475">
       <screen x="3840" y="0" width="1920" height="1050" />
     </state>
-    <state width="1878" height="339" key="GridCell.Tab.0.left/0.0.1707.930/3840.0.1920.1050@3840.0.1920.1050" timestamp="1591327611918" />
+    <state width="1664" height="291" key="GridCell.Tab.0.left/0.0.1707.930/3840.0.1920.1050@0.0.1707.930" timestamp="1592809977251" />
+    <state width="1877" height="338" key="GridCell.Tab.0.left/0.0.1707.930/3840.0.1920.1050@3840.0.1920.1050" timestamp="1592814859475" />
     <state width="1754" height="312" key="GridCell.Tab.0.left/0.0.1798.982@0.0.1798.982" timestamp="1588067020635" />
-    <state width="1878" height="339" key="GridCell.Tab.0.right" timestamp="1591327611918">
+    <state width="1877" height="338" key="GridCell.Tab.0.right" timestamp="1592814859475">
       <screen x="3840" y="0" width="1920" height="1050" />
     </state>
-    <state width="1878" height="339" key="GridCell.Tab.0.right/0.0.1707.930/3840.0.1920.1050@3840.0.1920.1050" timestamp="1591327611918" />
+    <state width="1664" height="291" key="GridCell.Tab.0.right/0.0.1707.930/3840.0.1920.1050@0.0.1707.930" timestamp="1592809977252" />
+    <state width="1877" height="338" key="GridCell.Tab.0.right/0.0.1707.930/3840.0.1920.1050@3840.0.1920.1050" timestamp="1592814859475" />
     <state width="1754" height="312" key="GridCell.Tab.0.right/0.0.1798.982@0.0.1798.982" timestamp="1588067020635" />
-    <state width="1878" height="339" key="GridCell.Tab.1.bottom" timestamp="1591327612008">
+    <state width="1877" height="338" key="GridCell.Tab.1.bottom" timestamp="1592814859584">
       <screen x="3840" y="0" width="1920" height="1050" />
     </state>
-    <state width="1878" height="339" key="GridCell.Tab.1.bottom/0.0.1707.930/3840.0.1920.1050@3840.0.1920.1050" timestamp="1591327612008" />
+    <state width="1664" height="291" key="GridCell.Tab.1.bottom/0.0.1707.930/3840.0.1920.1050@0.0.1707.930" timestamp="1592809977254" />
+    <state width="1877" height="338" key="GridCell.Tab.1.bottom/0.0.1707.930/3840.0.1920.1050@3840.0.1920.1050" timestamp="1592814859584" />
     <state width="1754" height="312" key="GridCell.Tab.1.bottom/0.0.1798.982@0.0.1798.982" timestamp="1588067020635" />
-    <state width="1878" height="339" key="GridCell.Tab.1.center" timestamp="1591327612008">
+    <state width="1877" height="338" key="GridCell.Tab.1.center" timestamp="1592814859584">
       <screen x="3840" y="0" width="1920" height="1050" />
     </state>
-    <state width="1878" height="339" key="GridCell.Tab.1.center/0.0.1707.930/3840.0.1920.1050@3840.0.1920.1050" timestamp="1591327612008" />
+    <state width="1664" height="291" key="GridCell.Tab.1.center/0.0.1707.930/3840.0.1920.1050@0.0.1707.930" timestamp="1592809977254" />
+    <state width="1877" height="338" key="GridCell.Tab.1.center/0.0.1707.930/3840.0.1920.1050@3840.0.1920.1050" timestamp="1592814859584" />
     <state width="1754" height="312" key="GridCell.Tab.1.center/0.0.1798.982@0.0.1798.982" timestamp="1588067020635" />
-    <state width="1878" height="339" key="GridCell.Tab.1.left" timestamp="1591327612008">
+    <state width="1877" height="338" key="GridCell.Tab.1.left" timestamp="1592814859584">
       <screen x="3840" y="0" width="1920" height="1050" />
     </state>
-    <state width="1878" height="339" key="GridCell.Tab.1.left/0.0.1707.930/3840.0.1920.1050@3840.0.1920.1050" timestamp="1591327612008" />
+    <state width="1664" height="291" key="GridCell.Tab.1.left/0.0.1707.930/3840.0.1920.1050@0.0.1707.930" timestamp="1592809977253" />
+    <state width="1877" height="338" key="GridCell.Tab.1.left/0.0.1707.930/3840.0.1920.1050@3840.0.1920.1050" timestamp="1592814859584" />
     <state width="1754" height="312" key="GridCell.Tab.1.left/0.0.1798.982@0.0.1798.982" timestamp="1588067020635" />
-    <state width="1878" height="339" key="GridCell.Tab.1.right" timestamp="1591327612008">
+    <state width="1877" height="338" key="GridCell.Tab.1.right" timestamp="1592814859584">
       <screen x="3840" y="0" width="1920" height="1050" />
     </state>
-    <state width="1878" height="339" key="GridCell.Tab.1.right/0.0.1707.930/3840.0.1920.1050@3840.0.1920.1050" timestamp="1591327612008" />
+    <state width="1664" height="291" key="GridCell.Tab.1.right/0.0.1707.930/3840.0.1920.1050@0.0.1707.930" timestamp="1592809977254" />
+    <state width="1877" height="338" key="GridCell.Tab.1.right/0.0.1707.930/3840.0.1920.1050@3840.0.1920.1050" timestamp="1592814859584" />
     <state width="1754" height="312" key="GridCell.Tab.1.right/0.0.1798.982@0.0.1798.982" timestamp="1588067020635" />
+    <state x="4546" y="225" key="RollbackChangesDialog" timestamp="1592451325541">
+      <screen x="3840" y="0" width="1920" height="1050" />
+    </state>
+    <state x="4546" y="225" key="RollbackChangesDialog/0.0.1707.930/3840.0.1920.1050@3840.0.1920.1050" timestamp="1592451325541" />
     <state x="379" y="68" key="SettingsEditor" timestamp="1587200531690">
       <screen x="0" y="0" width="1798" height="982" />
     </state>
     <state x="379" y="68" key="SettingsEditor/0.0.1798.982@0.0.1798.982" timestamp="1587200531690" />
-    <state x="491" y="223" key="Vcs.Push.Dialog.v2" timestamp="1587204341425">
-      <screen x="0" y="0" width="1798" height="982" />
+    <state x="466" y="211" key="Vcs.Push.Dialog.v2" timestamp="1592807445608">
+      <screen x="0" y="0" width="1707" height="930" />
     </state>
+    <state x="466" y="211" key="Vcs.Push.Dialog.v2/0.0.1707.930/3840.0.1920.1050@0.0.1707.930" timestamp="1592807445608" />
+    <state x="4364" y="238" key="Vcs.Push.Dialog.v2/0.0.1707.930/3840.0.1920.1050@3840.0.1920.1050" timestamp="1592562774402" />
     <state x="491" y="223" key="Vcs.Push.Dialog.v2/0.0.1798.982@0.0.1798.982" timestamp="1587204341425" />
-    <state x="701" y="397" key="git4idea.remote.GitConfigureRemotesDialog" timestamp="1587204184676">
-      <screen x="0" y="0" width="1798" height="982" />
+    <state x="4475" y="311" key="git4idea.merge.GitPullDialog" timestamp="1592789932187">
+      <screen x="3840" y="0" width="1920" height="1050" />
     </state>
+    <state x="4475" y="311" key="git4idea.merge.GitPullDialog/0.0.1707.930/3840.0.1920.1050@3840.0.1920.1050" timestamp="1592789932187" />
+    <state x="4589" y="424" key="git4idea.remote.GitConfigureRemotesDialog" timestamp="1591328381749">
+      <screen x="3840" y="0" width="1920" height="1050" />
+    </state>
+    <state x="4589" y="424" key="git4idea.remote.GitConfigureRemotesDialog/0.0.1707.930/3840.0.1920.1050@3840.0.1920.1050" timestamp="1591328381749" />
     <state x="701" y="397" key="git4idea.remote.GitConfigureRemotesDialog/0.0.1798.982@0.0.1798.982" timestamp="1587204184676" />
     <state x="272" y="195" key="new project wizard" timestamp="1586484495450">
       <screen x="0" y="0" width="1798" height="982" />
@@ -249,9 +381,10 @@
       <screen x="0" y="0" width="1798" height="982" />
     </state>
     <state x="556" y="226" key="run.anything.popup/0.0.1798.982@0.0.1798.982" timestamp="1585736022923" />
-    <state x="560" y="210" width="672" height="678" key="search.everywhere.popup" timestamp="1586415127374">
-      <screen x="0" y="0" width="1798" height="982" />
+    <state x="4438" y="225" width="718" height="725" key="search.everywhere.popup" timestamp="1592813985060">
+      <screen x="3840" y="0" width="1920" height="1050" />
     </state>
+    <state x="4438" y="225" width="718" height="725" key="search.everywhere.popup/0.0.1707.930/3840.0.1920.1050@3840.0.1920.1050" timestamp="1592813985060" />
     <state x="560" y="210" width="672" height="678" key="search.everywhere.popup/0.0.1798.982@0.0.1798.982" timestamp="1586415127374" />
   </component>
   <component name="XDebuggerManager">
@@ -286,6 +419,36 @@
           <url>file://$PROJECT_DIR$/src/com/jba/learn/algorithm/leetCode/MaxDiff.java</url>
           <line>28</line>
           <option name="timeStamp" value="29" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/jba/learn/algorithm/leetCode/LengthOfLongestSubstring.java</url>
+          <line>24</line>
+          <option name="timeStamp" value="43" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/jba/learn/algorithm/leetCode/LongestPalindrome.java</url>
+          <line>104</line>
+          <option name="timeStamp" value="45" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/jba/learn/algorithm/leetCode/RegexMatch.java</url>
+          <line>74</line>
+          <option name="timeStamp" value="48" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/jba/learn/algorithm/leetCode/ThreeSum.java</url>
+          <line>92</line>
+          <option name="timeStamp" value="49" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/jba/learn/algorithm/leetCode/ThreeSum.java</url>
+          <line>41</line>
+          <option name="timeStamp" value="50" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/jba/learn/algorithm/leetCode/ThreeSumClosest.java</url>
+          <line>20</line>
+          <option name="timeStamp" value="64" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
