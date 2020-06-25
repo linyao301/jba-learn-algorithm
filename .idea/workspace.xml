@@ -1,8 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="2cc134f5-7894-4bb8-86a2-554581b73513" name="Default Changelist" comment="">
+<<<<<<< HEAD
       <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+=======
+      <change afterPath="$PROJECT_DIR$/src/com/jba/learn/algorithm/leetCode/MergeKLists.java" afterDir="false" />
+>>>>>>> 213257978ee88ee829b684a37287db77468778da
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -44,9 +66,15 @@
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="settings.editor.selected.configurable" value="MavenSettings" />
   </component>
+<<<<<<< HEAD
   <component name="RunManager" selected="Application.MergeTwoLists">
     <configuration name="FourSum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.jba.learn.algorithm.leetCode.FourSum" />
+=======
+  <component name="RunManager" selected="Application.MergeKLists">
+    <configuration name="GenerateParenthesis" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.jba.learn.algorithm.leetCode.GenerateParenthesis" />
+>>>>>>> 213257978ee88ee829b684a37287db77468778da
       <module name="jba-learn-algorithm" />
       <extension name="coverage">
         <pattern>
@@ -58,8 +86,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+<<<<<<< HEAD
     <configuration name="IsValidBrackets" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.jba.learn.algorithm.leetCode.IsValidBrackets" />
+=======
+    <configuration name="IntToRoman" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.jba.learn.algorithm.leetCode.IntToRoman" />
+>>>>>>> 213257978ee88ee829b684a37287db77468778da
       <module name="jba-learn-algorithm" />
       <extension name="coverage">
         <pattern>
@@ -71,8 +104,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+<<<<<<< HEAD
     <configuration name="LetterCombinations" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.jba.learn.algorithm.leetCode.LetterCombinations" />
+=======
+    <configuration name="MergeKLists" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.jba.learn.algorithm.leetCode.MergeKLists" />
+>>>>>>> 213257978ee88ee829b684a37287db77468778da
       <module name="jba-learn-algorithm" />
       <extension name="coverage">
         <pattern>
@@ -84,8 +122,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+<<<<<<< HEAD
     <configuration name="MergeTwoLists" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.jba.learn.algorithm.leetCode.MergeTwoLists" />
+=======
+    <configuration name="RomanToInt" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.jba.learn.algorithm.leetCode.RomanToInt" />
+>>>>>>> 213257978ee88ee829b684a37287db77468778da
       <module name="jba-learn-algorithm" />
       <extension name="coverage">
         <pattern>
@@ -97,8 +140,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+<<<<<<< HEAD
     <configuration name="RemoveNthFromEnd" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.jba.learn.algorithm.leetCode.RemoveNthFromEnd" />
+=======
+    <configuration name="ThreeSumClosest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.jba.learn.algorithm.leetCode.ThreeSumClosest" />
+>>>>>>> 213257978ee88ee829b684a37287db77468778da
       <module name="jba-learn-algorithm" />
       <extension name="coverage">
         <pattern>
@@ -112,11 +160,19 @@
     </configuration>
     <recent_temporary>
       <list>
+<<<<<<< HEAD
         <item itemvalue="Application.MergeTwoLists" />
         <item itemvalue="Application.IsValidBrackets" />
         <item itemvalue="Application.RemoveNthFromEnd" />
         <item itemvalue="Application.FourSum" />
         <item itemvalue="Application.LetterCombinations" />
+=======
+        <item itemvalue="Application.MergeKLists" />
+        <item itemvalue="Application.GenerateParenthesis" />
+        <item itemvalue="Application.ThreeSumClosest" />
+        <item itemvalue="Application.IntToRoman" />
+        <item itemvalue="Application.RomanToInt" />
+>>>>>>> 213257978ee88ee829b684a37287db77468778da
       </list>
     </recent_temporary>
   </component>
@@ -145,6 +201,7 @@
       <option name="project" value="LOCAL" />
       <updated>1587204340035</updated>
     </task>
+<<<<<<< HEAD
     <task id="LOCAL-00003" summary="增加leetcode相关算法">
       <created>1592745509686</created>
       <option name="number" value="00003" />
@@ -160,13 +217,110 @@
       <updated>1592746959840</updated>
     </task>
     <option name="localTasksCounter" value="5" />
+=======
+    <task id="LOCAL-00003" summary="增加leetCode相关方法">
+      <created>1591328353297</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1591328353297</updated>
+    </task>
+    <task id="LOCAL-00004" summary="增加leetCode相关方法">
+      <created>1592191785488</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1592191785488</updated>
+    </task>
+    <task id="LOCAL-00005" summary="增加leetCode相关方法">
+      <created>1592451254749</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1592451254749</updated>
+    </task>
+    <task id="LOCAL-00006" summary="增加三数之和的算法题解">
+      <created>1592538473429</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1592538473429</updated>
+    </task>
+    <task id="LOCAL-00007" summary="增加罗马转数字">
+      <created>1592558820419</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1592558820419</updated>
+    </task>
+    <task id="LOCAL-00008" summary="增加三数接近之和">
+      <created>1592562773347</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1592562773347</updated>
+    </task>
+    <task id="LOCAL-00009" summary="增加括号生成算法解">
+      <created>1592807442477</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1592807442478</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
+>>>>>>> 213257978ee88ee829b684a37287db77468778da
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="1">
+          <value>
+            <State>
+              <option name="SHOW_ONLY_AFFECTED_CHANGES" value="true" />
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="HEAD" />
+                      </list>
+                    </value>
+                  </entry>
+                  <entry key="structure">
+                    <value>
+                      <list>
+                        <option value="dir:E:/my-workspace/jba-learn-algorithm/src" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="OPEN_GENERIC_TABS">
+      <map>
+        <entry key="1" value="TOOL_WINDOW" />
+      </map>
+    </option>
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="初始化项目" />
     <MESSAGE value="调整拓扑排序相关代码" />
+<<<<<<< HEAD
     <MESSAGE value="增加leetcode相关算法" />
     <option name="LAST_COMMIT_MESSAGE" value="增加leetcode相关算法" />
+=======
+    <MESSAGE value="增加leetCode相关方法" />
+    <MESSAGE value="增加三数之和的算法题解" />
+    <MESSAGE value="增加罗马转数字" />
+    <MESSAGE value="增加三数接近之和" />
+    <MESSAGE value="增加括号生成算法解" />
+    <option name="LAST_COMMIT_MESSAGE" value="增加括号生成算法解" />
+>>>>>>> 213257978ee88ee829b684a37287db77468778da
   </component>
   <component name="WindowStateProjectService">
     <state x="5131" y="223" key="#com.intellij.ide.util.MemberChooser" timestamp="1590744559170">
@@ -187,6 +341,7 @@
       <screen x="0" y="0" width="1798" height="982" />
     </state>
     <state x="1134" y="240" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1798.982@0.0.1798.982" timestamp="1587200190380" />
+<<<<<<< HEAD
     <state x="197" y="207" width="1241" height="833" key="#xdebugger.evaluate" timestamp="1592746295817">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -194,72 +349,150 @@
     <state x="197" y="207" width="1241" height="833" key="#xdebugger.evaluate/0.0.1920.1040@0.0.1920.1040" timestamp="1592746295817" />
     <state x="544" y="60" key="CommitChangelistDialog2" timestamp="1592746958775">
       <screen x="0" y="0" width="1920" height="1040" />
+=======
+    <state x="4530" y="270" key="#com.intellij.refactoring.typeMigration.ui.FailedConversionsDialog" timestamp="1591352683869">
+      <screen x="3840" y="0" width="1920" height="1050" />
     </state>
+    <state x="4530" y="270" key="#com.intellij.refactoring.typeMigration.ui.FailedConversionsDialog/0.0.1707.930/3840.0.1920.1050@3840.0.1920.1050" timestamp="1591352683869" />
+    <state x="604" y="0" width="1103" height="930" key="#xdebugger.evaluate" timestamp="1592557464508">
+      <screen x="0" y="0" width="1707" height="930" />
+    </state>
+    <state x="604" y="0" width="1103" height="930" key="#xdebugger.evaluate/0.0.1707.930/3840.0.1920.1050@3840.0.1920.1050" timestamp="1592557464508" />
+    <state x="484" y="54" key="CommitChangelistDialog2" timestamp="1592807441770">
+      <screen x="0" y="0" width="1707" height="930" />
+>>>>>>> 213257978ee88ee829b684a37287db77468778da
+    </state>
+    <state x="484" y="54" key="CommitChangelistDialog2/0.0.1707.930/3840.0.1920.1050@0.0.1707.930" timestamp="1592807441770" />
+    <state x="4384" y="61" key="CommitChangelistDialog2/0.0.1707.930/3840.0.1920.1050@3840.0.1920.1050" timestamp="1592562772835" />
     <state x="509" y="57" key="CommitChangelistDialog2/0.0.1798.982@0.0.1798.982" timestamp="1587204339353" />
+<<<<<<< HEAD
     <state x="544" y="60" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1592746958775" />
     <state width="469" height="495" key="DebuggerActiveHint" timestamp="1592746554249">
       <screen x="0" y="0" width="1920" height="1040" />
+=======
+    <state width="469" height="499" key="DebuggerActiveHint" timestamp="1592814838946">
+      <screen x="3840" y="0" width="1920" height="1050" />
+>>>>>>> 213257978ee88ee829b684a37287db77468778da
     </state>
-    <state width="469" height="499" key="DebuggerActiveHint/0.0.1707.930/3840.0.1920.1050@3840.0.1920.1050" timestamp="1591327620210" />
+    <state width="417" height="442" key="DebuggerActiveHint/0.0.1707.930/3840.0.1920.1050@0.0.1707.930" timestamp="1592809970085" />
+    <state width="469" height="499" key="DebuggerActiveHint/0.0.1707.930/3840.0.1920.1050@3840.0.1920.1050" timestamp="1592814838946" />
     <state width="439" height="466" key="DebuggerActiveHint/0.0.1798.982@0.0.1798.982" timestamp="1588066799061" />
+<<<<<<< HEAD
     <state width="469" height="495" key="DebuggerActiveHint/0.0.1920.1040@0.0.1920.1040" timestamp="1592746554249" />
     <state x="1207" y="266" key="FileChooserDialogImpl" timestamp="1592645791513">
       <screen x="0" y="0" width="1920" height="1040" />
+=======
+    <state x="3932" y="92" width="1736" height="866" key="DiffContextDialog" timestamp="1592791874382">
+      <screen x="3840" y="0" width="1920" height="1050" />
+>>>>>>> 213257978ee88ee829b684a37287db77468778da
     </state>
-    <state x="5047" y="269" key="FileChooserDialogImpl/0.0.1707.930/3840.0.1920.1050@3840.0.1920.1050" timestamp="1591235651639" />
+    <state x="3932" y="92" width="1736" height="866" key="DiffContextDialog/0.0.1707.930/3840.0.1920.1050@3840.0.1920.1050" timestamp="1592791874382" />
+    <state x="5047" y="269" key="FileChooserDialogImpl" timestamp="1592535875204">
+      <screen x="3840" y="0" width="1920" height="1050" />
+    </state>
+    <state x="5047" y="269" key="FileChooserDialogImpl/0.0.1707.930/3840.0.1920.1050@3840.0.1920.1050" timestamp="1592535875204" />
     <state x="1130" y="252" key="FileChooserDialogImpl/0.0.1798.982@0.0.1798.982" timestamp="1587204112618" />
     <state x="1207" y="266" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1592645791513" />
     <state x="746" y="388" width="636" height="205" key="Github.ShareDialog" timestamp="1587204104580">
       <screen x="0" y="0" width="1798" height="982" />
     </state>
     <state x="746" y="388" width="636" height="205" key="Github.ShareDialog/0.0.1798.982@0.0.1798.982" timestamp="1587204104580" />
+<<<<<<< HEAD
     <state width="914" height="335" key="GridCell.Tab.0.bottom" timestamp="1592746991910">
       <screen x="0" y="0" width="1920" height="1040" />
+=======
+    <state width="1877" height="338" key="GridCell.Tab.0.bottom" timestamp="1592814859475">
+      <screen x="3840" y="0" width="1920" height="1050" />
+>>>>>>> 213257978ee88ee829b684a37287db77468778da
     </state>
-    <state width="1878" height="339" key="GridCell.Tab.0.bottom/0.0.1707.930/3840.0.1920.1050@3840.0.1920.1050" timestamp="1591327611918" />
+    <state width="1664" height="291" key="GridCell.Tab.0.bottom/0.0.1707.930/3840.0.1920.1050@0.0.1707.930" timestamp="1592809977252" />
+    <state width="1877" height="338" key="GridCell.Tab.0.bottom/0.0.1707.930/3840.0.1920.1050@3840.0.1920.1050" timestamp="1592814859475" />
     <state width="1754" height="312" key="GridCell.Tab.0.bottom/0.0.1798.982@0.0.1798.982" timestamp="1588067020635" />
+<<<<<<< HEAD
     <state width="914" height="335" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1592746991910" />
     <state width="914" height="335" key="GridCell.Tab.0.center" timestamp="1592746991910">
       <screen x="0" y="0" width="1920" height="1040" />
+=======
+    <state width="1877" height="338" key="GridCell.Tab.0.center" timestamp="1592814859475">
+      <screen x="3840" y="0" width="1920" height="1050" />
+>>>>>>> 213257978ee88ee829b684a37287db77468778da
     </state>
-    <state width="1878" height="339" key="GridCell.Tab.0.center/0.0.1707.930/3840.0.1920.1050@3840.0.1920.1050" timestamp="1591327611918" />
+    <state width="1664" height="291" key="GridCell.Tab.0.center/0.0.1707.930/3840.0.1920.1050@0.0.1707.930" timestamp="1592809977251" />
+    <state width="1877" height="338" key="GridCell.Tab.0.center/0.0.1707.930/3840.0.1920.1050@3840.0.1920.1050" timestamp="1592814859475" />
     <state width="1754" height="312" key="GridCell.Tab.0.center/0.0.1798.982@0.0.1798.982" timestamp="1588067020635" />
+<<<<<<< HEAD
     <state width="914" height="335" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1592746991910" />
     <state width="914" height="335" key="GridCell.Tab.0.left" timestamp="1592746991910">
       <screen x="0" y="0" width="1920" height="1040" />
+=======
+    <state width="1877" height="338" key="GridCell.Tab.0.left" timestamp="1592814859475">
+      <screen x="3840" y="0" width="1920" height="1050" />
+>>>>>>> 213257978ee88ee829b684a37287db77468778da
     </state>
-    <state width="1878" height="339" key="GridCell.Tab.0.left/0.0.1707.930/3840.0.1920.1050@3840.0.1920.1050" timestamp="1591327611918" />
+    <state width="1664" height="291" key="GridCell.Tab.0.left/0.0.1707.930/3840.0.1920.1050@0.0.1707.930" timestamp="1592809977251" />
+    <state width="1877" height="338" key="GridCell.Tab.0.left/0.0.1707.930/3840.0.1920.1050@3840.0.1920.1050" timestamp="1592814859475" />
     <state width="1754" height="312" key="GridCell.Tab.0.left/0.0.1798.982@0.0.1798.982" timestamp="1588067020635" />
+<<<<<<< HEAD
     <state width="914" height="335" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1592746991910" />
     <state width="914" height="335" key="GridCell.Tab.0.right" timestamp="1592746991910">
       <screen x="0" y="0" width="1920" height="1040" />
+=======
+    <state width="1877" height="338" key="GridCell.Tab.0.right" timestamp="1592814859475">
+      <screen x="3840" y="0" width="1920" height="1050" />
+>>>>>>> 213257978ee88ee829b684a37287db77468778da
     </state>
-    <state width="1878" height="339" key="GridCell.Tab.0.right/0.0.1707.930/3840.0.1920.1050@3840.0.1920.1050" timestamp="1591327611918" />
+    <state width="1664" height="291" key="GridCell.Tab.0.right/0.0.1707.930/3840.0.1920.1050@0.0.1707.930" timestamp="1592809977252" />
+    <state width="1877" height="338" key="GridCell.Tab.0.right/0.0.1707.930/3840.0.1920.1050@3840.0.1920.1050" timestamp="1592814859475" />
     <state width="1754" height="312" key="GridCell.Tab.0.right/0.0.1798.982@0.0.1798.982" timestamp="1588067020635" />
+<<<<<<< HEAD
     <state width="914" height="335" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1592746991910" />
     <state width="914" height="335" key="GridCell.Tab.1.bottom" timestamp="1592746991910">
       <screen x="0" y="0" width="1920" height="1040" />
+=======
+    <state width="1877" height="338" key="GridCell.Tab.1.bottom" timestamp="1592814859584">
+      <screen x="3840" y="0" width="1920" height="1050" />
+>>>>>>> 213257978ee88ee829b684a37287db77468778da
     </state>
-    <state width="1878" height="339" key="GridCell.Tab.1.bottom/0.0.1707.930/3840.0.1920.1050@3840.0.1920.1050" timestamp="1591327612008" />
+    <state width="1664" height="291" key="GridCell.Tab.1.bottom/0.0.1707.930/3840.0.1920.1050@0.0.1707.930" timestamp="1592809977254" />
+    <state width="1877" height="338" key="GridCell.Tab.1.bottom/0.0.1707.930/3840.0.1920.1050@3840.0.1920.1050" timestamp="1592814859584" />
     <state width="1754" height="312" key="GridCell.Tab.1.bottom/0.0.1798.982@0.0.1798.982" timestamp="1588067020635" />
+<<<<<<< HEAD
     <state width="914" height="335" key="GridCell.Tab.1.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1592746991910" />
     <state width="914" height="335" key="GridCell.Tab.1.center" timestamp="1592746991910">
       <screen x="0" y="0" width="1920" height="1040" />
+=======
+    <state width="1877" height="338" key="GridCell.Tab.1.center" timestamp="1592814859584">
+      <screen x="3840" y="0" width="1920" height="1050" />
+>>>>>>> 213257978ee88ee829b684a37287db77468778da
     </state>
-    <state width="1878" height="339" key="GridCell.Tab.1.center/0.0.1707.930/3840.0.1920.1050@3840.0.1920.1050" timestamp="1591327612008" />
+    <state width="1664" height="291" key="GridCell.Tab.1.center/0.0.1707.930/3840.0.1920.1050@0.0.1707.930" timestamp="1592809977254" />
+    <state width="1877" height="338" key="GridCell.Tab.1.center/0.0.1707.930/3840.0.1920.1050@3840.0.1920.1050" timestamp="1592814859584" />
     <state width="1754" height="312" key="GridCell.Tab.1.center/0.0.1798.982@0.0.1798.982" timestamp="1588067020635" />
+<<<<<<< HEAD
     <state width="914" height="335" key="GridCell.Tab.1.center/0.0.1920.1040@0.0.1920.1040" timestamp="1592746991910" />
     <state width="914" height="335" key="GridCell.Tab.1.left" timestamp="1592746991910">
       <screen x="0" y="0" width="1920" height="1040" />
+=======
+    <state width="1877" height="338" key="GridCell.Tab.1.left" timestamp="1592814859584">
+      <screen x="3840" y="0" width="1920" height="1050" />
+>>>>>>> 213257978ee88ee829b684a37287db77468778da
     </state>
-    <state width="1878" height="339" key="GridCell.Tab.1.left/0.0.1707.930/3840.0.1920.1050@3840.0.1920.1050" timestamp="1591327612008" />
+    <state width="1664" height="291" key="GridCell.Tab.1.left/0.0.1707.930/3840.0.1920.1050@0.0.1707.930" timestamp="1592809977253" />
+    <state width="1877" height="338" key="GridCell.Tab.1.left/0.0.1707.930/3840.0.1920.1050@3840.0.1920.1050" timestamp="1592814859584" />
     <state width="1754" height="312" key="GridCell.Tab.1.left/0.0.1798.982@0.0.1798.982" timestamp="1588067020635" />
+<<<<<<< HEAD
     <state width="914" height="335" key="GridCell.Tab.1.left/0.0.1920.1040@0.0.1920.1040" timestamp="1592746991910" />
     <state width="914" height="335" key="GridCell.Tab.1.right" timestamp="1592746991910">
       <screen x="0" y="0" width="1920" height="1040" />
+=======
+    <state width="1877" height="338" key="GridCell.Tab.1.right" timestamp="1592814859584">
+      <screen x="3840" y="0" width="1920" height="1050" />
+>>>>>>> 213257978ee88ee829b684a37287db77468778da
     </state>
-    <state width="1878" height="339" key="GridCell.Tab.1.right/0.0.1707.930/3840.0.1920.1050@3840.0.1920.1050" timestamp="1591327612008" />
+    <state width="1664" height="291" key="GridCell.Tab.1.right/0.0.1707.930/3840.0.1920.1050@0.0.1707.930" timestamp="1592809977254" />
+    <state width="1877" height="338" key="GridCell.Tab.1.right/0.0.1707.930/3840.0.1920.1050@3840.0.1920.1050" timestamp="1592814859584" />
     <state width="1754" height="312" key="GridCell.Tab.1.right/0.0.1798.982@0.0.1798.982" timestamp="1588067020635" />
+<<<<<<< HEAD
     <state width="914" height="335" key="GridCell.Tab.1.right/0.0.1920.1040@0.0.1920.1040" timestamp="1592746991910" />
     <state x="405" y="72" key="SettingsEditor" timestamp="1592645794052">
       <screen x="0" y="0" width="1920" height="1040" />
@@ -268,8 +501,23 @@
     <state x="405" y="72" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1592645794052" />
     <state x="524" y="236" key="Vcs.Push.Dialog.v2" timestamp="1592746963473">
       <screen x="0" y="0" width="1920" height="1040" />
+=======
+    <state x="4546" y="225" key="RollbackChangesDialog" timestamp="1592451325541">
+      <screen x="3840" y="0" width="1920" height="1050" />
     </state>
+    <state x="4546" y="225" key="RollbackChangesDialog/0.0.1707.930/3840.0.1920.1050@3840.0.1920.1050" timestamp="1592451325541" />
+    <state x="379" y="68" key="SettingsEditor" timestamp="1587200531690">
+      <screen x="0" y="0" width="1798" height="982" />
+    </state>
+    <state x="379" y="68" key="SettingsEditor/0.0.1798.982@0.0.1798.982" timestamp="1587200531690" />
+    <state x="466" y="211" key="Vcs.Push.Dialog.v2" timestamp="1592807445608">
+      <screen x="0" y="0" width="1707" height="930" />
+>>>>>>> 213257978ee88ee829b684a37287db77468778da
+    </state>
+    <state x="466" y="211" key="Vcs.Push.Dialog.v2/0.0.1707.930/3840.0.1920.1050@0.0.1707.930" timestamp="1592807445608" />
+    <state x="4364" y="238" key="Vcs.Push.Dialog.v2/0.0.1707.930/3840.0.1920.1050@3840.0.1920.1050" timestamp="1592562774402" />
     <state x="491" y="223" key="Vcs.Push.Dialog.v2/0.0.1798.982@0.0.1798.982" timestamp="1587204341425" />
+<<<<<<< HEAD
     <state x="524" y="236" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1592746963473" />
     <state x="1116" y="306" key="git4idea.merge.GitPullDialog" timestamp="1593089514548">
       <screen x="0" y="0" width="1920" height="1040" />
@@ -277,7 +525,16 @@
     <state x="1116" y="306" key="git4idea.merge.GitPullDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1593089514548" />
     <state x="701" y="397" key="git4idea.remote.GitConfigureRemotesDialog" timestamp="1587204184676">
       <screen x="0" y="0" width="1798" height="982" />
+=======
+    <state x="4475" y="311" key="git4idea.merge.GitPullDialog" timestamp="1592789932187">
+      <screen x="3840" y="0" width="1920" height="1050" />
     </state>
+    <state x="4475" y="311" key="git4idea.merge.GitPullDialog/0.0.1707.930/3840.0.1920.1050@3840.0.1920.1050" timestamp="1592789932187" />
+    <state x="4589" y="424" key="git4idea.remote.GitConfigureRemotesDialog" timestamp="1591328381749">
+      <screen x="3840" y="0" width="1920" height="1050" />
+>>>>>>> 213257978ee88ee829b684a37287db77468778da
+    </state>
+    <state x="4589" y="424" key="git4idea.remote.GitConfigureRemotesDialog/0.0.1707.930/3840.0.1920.1050@3840.0.1920.1050" timestamp="1591328381749" />
     <state x="701" y="397" key="git4idea.remote.GitConfigureRemotesDialog/0.0.1798.982@0.0.1798.982" timestamp="1587204184676" />
     <state x="272" y="195" key="new project wizard" timestamp="1586484495450">
       <screen x="0" y="0" width="1798" height="982" />
@@ -287,10 +544,16 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="556" y="226" key="run.anything.popup/0.0.1798.982@0.0.1798.982" timestamp="1585736022923" />
+<<<<<<< HEAD
     <state x="594" y="239" key="run.anything.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1592745947430" />
     <state x="598" y="222" width="718" height="719" key="search.everywhere.popup" timestamp="1592730152029">
       <screen x="0" y="0" width="1920" height="1040" />
+=======
+    <state x="4438" y="225" width="718" height="725" key="search.everywhere.popup" timestamp="1592813985060">
+      <screen x="3840" y="0" width="1920" height="1050" />
+>>>>>>> 213257978ee88ee829b684a37287db77468778da
     </state>
+    <state x="4438" y="225" width="718" height="725" key="search.everywhere.popup/0.0.1707.930/3840.0.1920.1050@3840.0.1920.1050" timestamp="1592813985060" />
     <state x="560" y="210" width="672" height="678" key="search.everywhere.popup/0.0.1798.982@0.0.1798.982" timestamp="1586415127374" />
     <state x="598" y="222" width="718" height="719" key="search.everywhere.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1592730152029" />
   </component>
@@ -328,6 +591,7 @@
           <option name="timeStamp" value="29" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
+<<<<<<< HEAD
           <url>file://$PROJECT_DIR$/src/com/jba/learn/algorithm/leetCode/RemoveNthFromEnd.java</url>
           <line>45</line>
           <option name="timeStamp" value="40" />
@@ -336,6 +600,36 @@
           <url>file://$PROJECT_DIR$/src/com/jba/learn/algorithm/leetCode/IsValidBrackets.java</url>
           <line>26</line>
           <option name="timeStamp" value="43" />
+=======
+          <url>file://$PROJECT_DIR$/src/com/jba/learn/algorithm/leetCode/LengthOfLongestSubstring.java</url>
+          <line>24</line>
+          <option name="timeStamp" value="43" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/jba/learn/algorithm/leetCode/LongestPalindrome.java</url>
+          <line>104</line>
+          <option name="timeStamp" value="45" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/jba/learn/algorithm/leetCode/RegexMatch.java</url>
+          <line>74</line>
+          <option name="timeStamp" value="48" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/jba/learn/algorithm/leetCode/ThreeSum.java</url>
+          <line>92</line>
+          <option name="timeStamp" value="49" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/jba/learn/algorithm/leetCode/ThreeSum.java</url>
+          <line>41</line>
+          <option name="timeStamp" value="50" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/jba/learn/algorithm/leetCode/ThreeSumClosest.java</url>
+          <line>20</line>
+          <option name="timeStamp" value="64" />
+>>>>>>> 213257978ee88ee829b684a37287db77468778da
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
