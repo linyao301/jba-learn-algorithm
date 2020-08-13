@@ -65,12 +65,12 @@ public class QuickSort {
 
   public static void main(String[] args) {
     String a = ", 2, 7, 5, 8, 15, 7, 1";
-    int[] array = new int[]{4, 3, 6, 2, 7, 5, 8, 15, 7, 1};
+    int[] array = new int[]{6, 8, 2};
     sortLeft(array, 0, array.length - 1);
     for (int i : array) {
       System.out.print(i + ",");
     }
-    System.out.println("");
+    /*System.out.println("");
     System.out.println(leftTime);
     array = new int[]{4, 3, 6, 2, 7, 5, 8, 15, 7, 1};
     sortRight(array, 0, array.length - 1);
@@ -78,7 +78,7 @@ public class QuickSort {
       System.out.print(i + ",");
     }
     System.out.println("");
-    System.out.println(rightTime);
+    System.out.println(rightTime);*/
   }
 
 }
