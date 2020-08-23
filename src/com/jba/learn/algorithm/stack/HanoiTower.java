@@ -17,6 +17,7 @@ public class HanoiTower {
       return process(num, left, mid, right, left, right);
     }
 
+    //TODO 需要理解一下
     public int process(int num, String left, String mid, String right, String from, String to) {
       //处理一层的汉诺塔
       if (num == 1) {
